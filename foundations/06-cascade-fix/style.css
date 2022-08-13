@@ -58,8 +58,9 @@ div.text {
 
 /* specificity */
 .text.child {
-  color: red;
+  color: rgb(0, 0, 0);
   font-size: 14px;
+  font-weight: bold;
 }
 
 /* div.text.child {
