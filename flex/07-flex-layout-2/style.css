@@ -38,29 +38,6 @@ body {
 .sidebar {
   width: 300px;
   background: royalblue;
-  padding: 16px;
-  flex: none;
-}
-
-.sidebar > ul {
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-.sidebar > ul a {
-  font-size: 24px;
-  color: white;
-  text-decoration: none;
-}
-
-.content {
-  padding: 32px;
-  display: flex;
-  flex-wrap: wrap;
-  flex: 1;
-  gap: 20px;
-  align-content: flex-start;
-  /* justify-content: center; */
 }
 
 .card {

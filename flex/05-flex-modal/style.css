@@ -66,9 +66,12 @@ body {
   justify-content: center;
 
   flex: none;
+  border: 1px solid #eee;
+  padding: 0;
 }
 
 button {
+  cursor: pointer;
   padding: 8px 16px;
   border-radius: 8px;
 }
